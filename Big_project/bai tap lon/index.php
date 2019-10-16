@@ -59,11 +59,9 @@
         <div class="ml-0 col-md-6">
           <ul class="nav align-items-stretch ml-2 flex-row-reverse" style="">
             <li class="nav-item">
-              <a href="#" class="nav-link active" contenteditable="true">Cựu sinh viên </a>
+            <a href="login.php" class="nav-link active" contenteditable="true">Đăng nhập </a>
             </li>
-            <li class="nav-item">
-              <a href="#" class="nav-link active"> Sinh viên </a>
-            </li>
+            
             <li class="nav-item">
               <a href="#" class="nav-link active"><i class="fa fa-user fa-fw"></i>&nbsp;Giảng viên/Viên chức&nbsp;</a>
             </li>
